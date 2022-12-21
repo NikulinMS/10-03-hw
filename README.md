@@ -49,7 +49,9 @@ Pacemaker использует функции управления сообще�
 ### Задание 3
 
 ![pcs_status.png](img%2Fpcs_status.png)
-
+![cluster_web.png](img%2Fcluster_web.png)
+![corosync_conf.png](img%2Fcorosync_conf.png)
+![pcs_backup.png](img%2Fpcs_backup.png)
 
 ---
 ## Дополнительные задания (со звездочкой*)
